@@ -1,0 +1,5 @@
+#num-pad {
+	z-index:1;
+	position: fixed;
+	background:lime;
+	}

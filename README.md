@@ -1,7 +1,6 @@
 # NumPad
 
-Widget that displays a number pad with
- an accumulator and and `enter` button.
+Widget that displays a number pad with an accumulator and `enter` button.
 
 It only allows integer inputs.
 

@@ -48,6 +48,7 @@
 
 		constructor(el, options) {
 			const my = this;
+my.$el = $(el);
 			my.opts = $.extend({}, NumPad.defaults, options);
 			my.$pad = $(MARKUP).appendTo($(el));
 			my.$val = my.$pad.find('th');
